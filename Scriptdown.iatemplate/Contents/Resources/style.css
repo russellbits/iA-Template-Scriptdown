@@ -1,0 +1,111 @@
+/**
+ * iA Writer Template "Scriptdown"
+ *
+ * font-family: Bebas Neue, Cardo
+ * font-size:   15px iPhone 5, 16px iPhone 6+, 17px iPad, 18px Mac, 19px
+ * line-height: 1.6316 (31px @ font-size: 19px)
+ * vert margin: 31px @ 1080px wide
+ */
+
+/* TOOLS → core.css */
+
+/* Fonts */
+@font-face {
+  font-family: "Courier", monospace;
+  font-style: normal;
+}
+
+* {
+  font-family: "Courier", monospace;
+  font-size: 12pt;
+}
+
+body {
+  margin-left: 1in;
+  margin-right: 1in;
+}
+
+.night-mode {
+	color: #fff;
+}
+
+/* Script title */
+h1 {
+	text-indent: 0;
+	text-align: center;
+	line-height: 1em;
+	width: 100%;
+	padding: 0;
+	margin: 1em 0 1em 0;
+	hyphens: none;
+}
+
+/* Script sub-title */
+h2 {
+	text-indent: 0;
+	text-align: center;
+	line-height: 1em;
+	width: 100%;
+	padding: 0;
+	margin: 1em 0 5em 0;
+	hyphens: none;
+}
+
+/* Scene Heading -- CUT TO; INTERCUT */
+h3 {
+  width: 6.0in;
+  text-transform: capitalize;
+}
+
+/* parenthetical */
+h4 {
+  text-indent: 1.5in;
+  width: 2.5in;
+}
+
+/* Capitalized directions */
+i {
+  font-style: normal;
+  text-transform: capitalize;
+}
+
+/* Dialogue speakers */
+dl {
+
+}
+
+/* dialogue speaker */
+dt {
+  /* text-align: center; */
+  text-indent: 2in;
+  width: 4in;
+}
+
+/* dialogue */
+dd {
+  text-indent: 1in;
+  width: 3.5in;
+  text-align: left;
+}
+
+p {
+	line-height: 2em;
+	text-indent: 2em;
+	padding: 0 0 0 0;
+	margin: 0 auto 0 auto;
+}
+
+blockquote p {
+	text-indent: 0;
+	line-height: 1em;
+	width: 50%;
+	padding: 1em 1em 1em 0;
+	margin: 0 auto 0 auto;
+	border: none;
+}
+
+blockquote:nth-child(even) p {
+	float: right;
+	text-align: right;
+	padding: 1em 0 1em 1em;
+}
