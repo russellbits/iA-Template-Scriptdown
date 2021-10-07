@@ -16,5 +16,4 @@ Filbert (V.O.)
 Just then, the babysitter walks by. BECKY (23), trendy, distracted. She is mid-phone call with Filbert's Mom, TRACY.
 
 Becky
-#### (Into phone)
 : Oh yeah, he's fine. He's just fighting orcs and trolls.
