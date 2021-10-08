@@ -29,6 +29,14 @@ body {
 	color: #fff;
 }
 
+.header {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
+
 /* Script title */
 h1 {
 	text-indent: 0;

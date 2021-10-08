@@ -1,4 +1,4 @@
-### Fade in:
+##### Fade in:
 
 ### Ext. Suburban Home - night
 
@@ -17,3 +17,14 @@ Just then, the babysitter walks by. BECKY (23), trendy, distracted. She is mid-p
 
 Becky
 : Oh yeah, he's fine. He's just fighting orcs and trolls.
+
+### Intercut phone conversation
+
+TRACY
+: Oh that's perfectly normal.
+
+Filbert lifts his sword into the air, lets out a big battle cry, and sprints from the kitchen to --
+
+### Hallway
+
+Filbert comes around the corner, distracted by his fantasy, bumps into the wall. His favorite ball slips from his hand. Everything slows down for Filbert.
