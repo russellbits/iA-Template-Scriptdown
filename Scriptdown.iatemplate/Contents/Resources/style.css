@@ -53,20 +53,26 @@ h2 {
 
 /* Scene Heading -- CUT TO; INTERCUT */
 h3 {
-  width: 6.0in;
-  text-transform: capitalize;
+    font-weight: bolder;
+    width: 6.0in;
+    text-transform: capitalize;
 }
 
-/* parenthetical */
+/* parenthetical — stage directions */
 h4 {
-  text-indent: 1.5in;
-  width: 2.5in;
+    text-indent: 1.5in;
+    width: 2.5in;
+}
+
+/* Transition */
+h5 {
+    text-align: right;
 }
 
 /* Capitalized directions */
 i {
-  font-style: normal;
-  text-transform: capitalize;
+    font-style: normal;
+    text-transform: capitalize;
 }
 
 /* Dialogue speakers */
@@ -83,14 +89,15 @@ dt {
 
 /* dialogue */
 dd {
-  text-indent: 1in;
+  text-indent: 0;
+  line-height: 1.0em;
   width: 3.5in;
   text-align: left;
 }
 
 p {
-	line-height: 2em;
-	text-indent: 2em;
+	line-height: 1.0em;
+	text-indent: 0;
 	padding: 0 0 0 0;
 	margin: 0 auto 0 auto;
 }
