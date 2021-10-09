@@ -27,7 +27,7 @@
 	<key>IATemplateHeaderHeight</key>
 	<integer>90</integer>
 	<key>IATemplateDescription</key>
-	<string>An IA template for creating screenplay-styled writing.</string>
+	<string>An IA template for creating screenplay-styled documents.</string>
 	<key>IATemplateAuthor</key>
 	<string>Russell Warner</string>
 	<key>IATemplateAuthorURL</key>

@@ -20,6 +20,14 @@
   font-size: 12pt;
 }
 
+@media print {
+    margin: 1in 1.5in 1in 1.5in;
+}
+
+@media screen {
+
+}
+
 body {
   margin-left: 1in;
   margin-right: 1in;
